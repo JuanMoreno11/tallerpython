@@ -8,7 +8,7 @@ title: Seccion 2
 
 # Clase
 Martes 5:00pm - 6:15pm 
-Zoom 
+Zoom : https://uniandes-edu-co.zoom.us/j/81060787187 
 
 # Anuncios varios
 ## Reglas de Clase
